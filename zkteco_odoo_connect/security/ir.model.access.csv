@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+attendance_collection,attendance_collection.crud,model_hr_attendence_collect,hr.group_hr_manager,1,1,1,1
+attendance_machine,attendance_machine.crud,model_attendance_machine,hr.group_hr_manager,1,1,1,1
+attendance_machine_capture,attendance_machine.capture.crud,model_attendance_machine_capture,hr.group_hr_manager,1,1,1,1
